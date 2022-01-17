@@ -23,6 +23,8 @@ We provide you a scenario created in the "Tiled" map editor software, this map (
 
 In addition, the map contains information that could be functional for some of the tasks that will be requested throughout this test.
 
+![alt text](https://github.com/jesgonzalezGC/Prueba-Web-Game-Programmer/blob/main/baseTileset.png?raw=true)
+
 ## Junior
 
 - .
