@@ -10,6 +10,8 @@ Gracias por tomarte el tiempo de realizar esta prueba de codificación para la v
 La prueba técnica para Web Game Programmer debe ser desarrollada con la siguiente versión de Phaser:
 
   **Phaser:** `3.55.2`
+  - Documentación Phaser: https://photonstorm.github.io/phaser3-docs/
+  - Ejemplos Phaser V3: https://phaser.io/examples/v3
 
 ## Tareas
 
