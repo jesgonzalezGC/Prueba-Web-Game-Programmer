@@ -17,7 +17,7 @@ Te hemos proporcionado un escenario creado en el software "Tiled" map editor, Es
 
 Además, el mapa contiene información que podría ser funcional para algunas de las tareas que se solicitarán a lo largo de esta prueba.
 
-<img src="https://github.com/jesgonzalezGC/Prueba-Web-Game-Programmer/blob/main/MapReference.PNG" width="500" />
+<img src="https://github.com/jesgonzalezGC/Prueba-Web-Game-Programmer/blob/main/assets/MapReference.PNG" width="500" />
 
 - Cargar el escenario de Tiled en phaser.
   - Se deberá montar el mapa proporcionado en este repositorio en una escena de phaser.
