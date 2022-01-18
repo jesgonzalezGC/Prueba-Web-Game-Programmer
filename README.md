@@ -1,40 +1,48 @@
-# Web game programmer recruitment test
+# Prueba de reclutamiento: Web game programmer
 
-Thanks for taking the time to do our "Web Game Programmer" coding test.
-
-----
-
-You will be graded based on the following have been met:
-
-* Your implementation works as described in the task.
+Gracias por tomarte el tiempo de realizar esta prueba de codificación para la vacante "Web Game Programmer".
 
 ----
 
-## Prerequisites/Environment Setup
+## Prerequisitos / Environment
 
 
-The Web Game Programmer test is developed using the following versions of Phaser:
+La prueba técnica para Web Game Programmer debe ser desarrollada con la siguiente versión de Phaser:
 
   **Phaser:** `3.55.2`
 
-## Task
+## Tareas
 
-We provide you a scenario created in the "Tiled" map editor software, this map (map.json) together with the tileset (baseTileset.png) contains the necessary data so you can visualize the scenario in your phaser project.
+Te hemos proporcionado un escenario creado en el software "Tiled" map editor, Este mapa (map.json) en conjunto con el tileset (baseTileset.png) contiene la información necesaria para poder cargar y visualizar el escenario en tu proyecto de phaser.
 
-In addition, the map contains information that could be functional for some of the tasks that will be requested throughout this test.
+Además, el mapa contiene información que podría ser funcional para algunas de las tareas que se solicitarán a lo largo de esta prueba.
 
-![alt text](https://github.com/jesgonzalezGC/Prueba-Web-Game-Programmer/blob/main/baseTileset.png?raw=true)
+<img src="https://github.com/jesgonzalezGC/Prueba-Web-Game-Programmer/blob/main/MapReference.PNG" width="500" />
 
-## Junior
+- Cargar el escenario de Tiled en phaser.
+  - Se deberá montar el mapa proporcionado en este repositorio en una escena de phaser.
+- Añadir colisiones del mundo (información en el map.json).
+- Personaje con animaciones.
+  - Se deberá integrar el personaje que se encuentra en la carpeta assets (player.PNG), siendo la mecanica principal caminar con las teclas WASD ademas que debe reproducir su animación al caminar.
+- Añadir UI a el juego (libre).
+  - Eres libre de realizar esta interfaz a tu criterio
+- Interación y eventos
+  - En las 2 casas que se encuentran en el escenario el usuario puede interactuar con algún objeto de tu elección y así poder "entrar" a <b>un</b> minijuego (Estos minijuegos deben estar en otra escena).
+  - El minijuego puede ser cualquiera pero te damos algunos ejemplos: 
+    - Rompe bloques estilo "Arkanoid"
+    - Snake
+    - Buscaminas
+    - Pac-man
+    - Avoid and pickup falling objects
 
-- .
-  - .
-
-## Senior
-- .
-  - .
+## Extras
+- Luces y particulas
+  - Agregar algunas luces y particulas ya sea en el escenario principal o los minijuegos.
+- Pausar juego
+- Spawn point marcado desde Tiled
+- Agregar algún shader 
 
 ## Submission Guidelines
-
-* The zip file should be named {yourname}.zip, and should itself contain the web-game-programmer-recruitment-test project folder with your submission.
+* El proyecto debe ser exportado en formato zip, el cual debe llamarse {yourname}.zip, y dentro debe contener otro directorio llamado web-game-programmer-test con tu solución lista.
+* Dentro de tu solución debes añadir un archivo con las instrucciones para poder ejecutar tu proyecto con normalidad.
 
