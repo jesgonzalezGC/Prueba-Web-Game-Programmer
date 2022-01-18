@@ -23,7 +23,7 @@ Además, el mapa contiene información que podría ser funcional para algunas de
   - Se deberá montar el mapa proporcionado en este repositorio en una escena de phaser.
 - Añadir colisiones del mundo (información en el map.json).
 - Personaje con animaciones.
-  - Se deberá integrar el personaje que se encuentra en la carpeta assets (player.PNG), siendo la mecanica principal caminar con las teclas WASD ademas que debe reproducir su animación al caminar.
+  - Se deberá integrar el personaje que se encuentra en la carpeta assets (player.PNG), siendo la mecánica principal caminar con las teclas WASD además que debe reproducir su animación al caminar.
 - Añadir UI a el juego (libre).
   - Eres libre de realizar esta interfaz a tu criterio
 - Interación y eventos
@@ -36,8 +36,8 @@ Además, el mapa contiene información que podría ser funcional para algunas de
     - Avoid and pickup falling objects
 
 ## Extras
-- Luces y particulas
-  - Agregar algunas luces y particulas ya sea en el escenario principal o los minijuegos.
+- Luces y partículas
+  - Agregar algunas luces y partículas ya sea en el escenario principal o los minijuegos.
 - Pausar juego
 - Spawn point marcado desde Tiled
 - Agregar algún shader 
