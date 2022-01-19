@@ -17,6 +17,8 @@ La prueba técnica para Web Game Programmer debe ser desarrollada con la siguien
 
 Te hemos proporcionado un escenario creado en el software "Tiled" map editor, Este mapa (map.json) en conjunto con el tileset (baseTileset.png) contiene la información necesaria para poder cargar y visualizar el escenario en tu proyecto de phaser.
 
+**Nota:** Cada Tile tiene una medida de 16px X 16px
+
 Además, el mapa contiene información que podría ser funcional para algunas de las tareas que se solicitarán a lo largo de esta prueba.
 
 <img src="https://github.com/jesgonzalezGC/Prueba-Web-Game-Programmer/blob/main/assets/MapReference.PNG" width="700" />
