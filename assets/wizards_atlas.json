@@ -1,7 +1,7 @@
 {
     "frames": [
         {
-            "filename": "player_idle_0",
+            "filename": "6050_idle_0",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -14,7 +14,7 @@
             }
         },
         {
-            "filename": "player_d_walk_0",
+            "filename": "6050_d_walk_0",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -27,7 +27,7 @@
             }
         },
         {
-            "filename": "player_d_walk_1",
+            "filename": "6050_d_walk_1",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -40,7 +40,7 @@
             }
         },
         {
-            "filename": "player_d_walk_2",
+            "filename": "6050_d_walk_2",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -53,7 +53,7 @@
             }
         },
         {
-            "filename": "player_d_walk_3",
+            "filename": "6050_d_walk_3",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -66,7 +66,7 @@
             }
         },
         {
-            "filename": "player_l_walk_0",
+            "filename": "6050_l_walk_0",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -79,7 +79,7 @@
             }
         },
         {
-            "filename": "player_l_walk_1",
+            "filename": "6050_l_walk_1",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -92,7 +92,7 @@
             }
         },
         {
-            "filename": "player_l_walk_2",
+            "filename": "6050_l_walk_2",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -105,7 +105,7 @@
             }
         },
         {
-            "filename": "player_l_walk_3",
+            "filename": "6050_l_walk_3",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -118,7 +118,7 @@
             }
         },
         {
-            "filename": "player_u_walk_0",
+            "filename": "6050_u_walk_0",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -131,7 +131,7 @@
             }
         },
         {
-            "filename": "player_u_walk_1",
+            "filename": "6050_u_walk_1",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -144,7 +144,7 @@
             }
         },
         {
-            "filename": "player_u_walk_2",
+            "filename": "6050_u_walk_2",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -157,7 +157,7 @@
             }
         },
         {
-            "filename": "player_u_walk_3",
+            "filename": "6050_u_walk_3",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -170,7 +170,7 @@
             }
         },
         {
-            "filename": "player_r_walk_0",
+            "filename": "6050_r_walk_0",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -183,7 +183,7 @@
             }
         },
         {
-            "filename": "player_r_walk_1",
+            "filename": "6050_r_walk_1",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -196,7 +196,7 @@
             }
         },
         {
-            "filename": "player_r_walk_2",
+            "filename": "6050_r_walk_2",
             "frame": {
                 "w": 50,
                 "h": 50,
@@ -209,7 +209,7 @@
             }
         },
         {
-            "filename": "player_r_walk_3",
+            "filename": "6050_r_walk_3",
             "frame": {
                 "w": 50,
                 "h": 50,
